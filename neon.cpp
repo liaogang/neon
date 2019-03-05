@@ -1,4 +1,10 @@
-#include "defs.h"
+//
+//  neon.cpp
+//
+//  Created by liaogang on 2019/2/18.
+//  Copyright © 2019 liaogang. All rights reserved.
+//
+
 #include "neon.h"
 
 int8 bit_unextension_s16(int16 t)
